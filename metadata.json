@@ -1,0 +1,6 @@
+{
+  "name": "TriageSetu - Rural Tele-Triage & CDSS",
+  "description": "FOSS, local-first multimodal pre-diagnosis & urgency triage CDSS platform for rural primary healthcare centers with deterministic MEWS and edge biomarkers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
